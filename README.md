@@ -284,5 +284,5 @@ ISC
 ---
 
 **Created with ❤️ using React and Node.js**
-#   G m a i l - I M A P - c l i e n t - a p p l i c a t i o n  
+#   G m a i l - I M A P - c l i e n t - a p p l i c a t i o n 
  
